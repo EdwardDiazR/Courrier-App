@@ -1,55 +1,11 @@
-<<<<<<< HEAD
-# Welcome to your Expo app 👋
+![image](https://github.com/user-attachments/assets/8fbd2c9b-5067-4335-a82d-8cde75f38b4e)![image](https://github.com/user-attachments/assets/88a9ede0-5911-45eb-9906-e4f5a7d62e07)
+![image](https://github.com/user-attachments/assets/c9f1da60-7d6a-4553-8864-5ddc0e529449)
+![image](https://github.com/user-attachments/assets/d5dd0f68-c80e-4da2-b4ab-43b7edc18ca3)
+![image](https://github.com/user-attachments/assets/cc1ffa54-bcf2-45e3-9ee7-f2107af4efbb)
+![image](https://github.com/user-attachments/assets/bf877d35-3af5-4c26-b7bb-20cad45c7cbc)
+![image](https://github.com/user-attachments/assets/208b2880-730f-4556-89aa-2b7d61585248)
+![image](https://github.com/user-attachments/assets/f3133001-d6d6-4557-9659-16a2b1c8fabf)
+![image](https://github.com/user-attachments/assets/058d9be3-456a-4e0a-97ff-dc74d49e2c0c)
+![image](https://github.com/user-attachments/assets/ee5d2844-c3ac-4156-90f4-826eafce22eb)
+![image](https://github.com/user-attachments/assets/700e1ceb-dcf3-4f82-b3ba-dc7f79c824cb)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
-
-1. Install dependencies
-
-   ```bash
-   npm install
-   ```
-
-2. Start the app
-
-   ```bash
-    npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-=======
-# Courrier-App
-App that manages packages courier
->>>>>>> d063a1659d9be9e23b50974c088885102eb2c9b3
