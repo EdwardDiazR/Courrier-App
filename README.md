@@ -1,8 +1,7 @@
-App cliente de courrier | React Native
+<b>App cliente de courrier | React Native<b/> <br>
 En esta app de paqueteria el courrier podra poner a disposicion el status de los paquetes recibidos de los clientes con su Status y detalles del paquete.
 
-![image](https://github.com/user-attachments/assets/88a9ede0-5911-45eb-9906-e4f5a7d62e07)
-![image](https://github.com/user-attachments/assets/c9f1da60-7d6a-4553-8864-5ddc0e529449)
+![image](https://github.com/user-attachments/assets/88a9ede0-5911-45eb-9906-e4f5a7d62e07) | ![image](https://github.com/user-attachments/assets/c9f1da60-7d6a-4553-8864-5ddc0e529449)
 ![image](https://github.com/user-attachments/assets/d5dd0f68-c80e-4da2-b4ab-43b7edc18ca3)
 ![image](https://github.com/user-attachments/assets/cc1ffa54-bcf2-45e3-9ee7-f2107af4efbb)
 ![image](https://github.com/user-attachments/assets/bf877d35-3af5-4c26-b7bb-20cad45c7cbc)
